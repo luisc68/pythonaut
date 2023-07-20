@@ -17,34 +17,28 @@ Welcome to our exciting automation project! This repository contains an innovati
 Before you can start using this automation project, ensure you have the following prerequisites installed on your system:
 
 - Python 3.8 or later
-- FFmpeg
-- Instagram and Tiktok accounts (for uploading videos)
+- Instagram, Tiktok and Reddit accounts (for uploading videos)
 
 ## Installation
 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/luisc68/pythonaut.git
 ```
 
 2. Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ( in processing)
 ```
-
-3. Set up FFmpeg:
-
-Ensure FFmpeg is installed and added to your system's PATH variable. You can download FFmpeg from https://ffmpeg.org/download.html
 
 ## Usage
 
 1. Launch the console application:
 
 ```bash
-python main.py
+python menu.py
 ```
 
 2. Follow the on-screen instructions to log in to your Instagram and Tiktok accounts.
@@ -67,4 +61,4 @@ This project is an early version, and while we strive to provide a seamless expe
 
 Happy video editing and uploading!
 
-The Project Team
+By Luis C
