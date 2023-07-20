@@ -30,7 +30,7 @@ git clone https://github.com/luisc68/pythonaut.git
 2. Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt ( in processing)
+pip install -r requirements.txt (in processing)
 ```
 
 ## Usage
